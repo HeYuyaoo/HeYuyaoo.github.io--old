@@ -2,13 +2,16 @@ body {
     background-color: pink;
     padding:0;
 }  
-nav{
+nav {
         background-color: white;
         margin:0;
-        padding:10px 160px;
-        position: fix;
+        padding:10px;
+        position: fixed;
         font-size: 1.2em;
 
-    }
+}
 
+nav a {
+    padding: 10px 20px;
+}
 
