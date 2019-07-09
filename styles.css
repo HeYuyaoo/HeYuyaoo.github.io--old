@@ -1,0 +1,14 @@
+body {
+    background-color: pink;
+    padding:0;
+}  
+nav{
+        background-color: white;
+        margin:0;
+        padding:10px 160px;
+        position: fix;
+        font-size: 1.2em;
+
+    }
+
+
